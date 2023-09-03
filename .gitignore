@@ -2,6 +2,7 @@ user.js
 
 /node_modules/
 /test-results/
+/playwright-report/
 
 .vscode/*
 !.vscode/settings.json
